@@ -1,0 +1,2 @@
+services:
+  app.service.package: '@AppBundle\Service\PackageService'
